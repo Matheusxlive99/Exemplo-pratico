@@ -12,6 +12,7 @@ typedef struct
     float nota2;
     float nota3;
     float media;
+    //Comentafwqiuwehgisurntgkwenvkjenaijbjwhnej,gnt jhedb asjkfn kje
 } Alunos;
 
 void Escrever()
